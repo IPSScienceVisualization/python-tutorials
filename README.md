@@ -15,6 +15,6 @@ Other Tutorials
 IMERSA 2015 Data to Dome Workshop
 <ul>
   <li>
-    
+    <a href=https://github.com/IPSScienceVisualization/python-tutorials/blob/master/WorkshopInstructions.md>Workshop Instructions</a>
   </li>
 </ul>
