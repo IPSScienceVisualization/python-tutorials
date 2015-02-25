@@ -17,4 +17,7 @@ IMERSA 2015 Data to Dome Workshop
   <li>
     <a href=https://github.com/IPSScienceVisualization/python-tutorials/blob/master/WorkshopInstructions.md>Workshop Instructions</a>
   </li>
+  <li>Visualizing simulation data:<a href="http://nbviewer.ipython.org/github/IPSScienceVisualization/python-tutorials/blob/master/SgrStream.ipynb">The Disruption of the Sagattarius Dwarf</a></li>
+<li>Visualizing VizieR catalogs:<a href="http://nbviewer.ipython.org/github/IPSScienceVisualization/python-tutorials/blob/master/MilkyWay%20Datasets%20for%20Visualization.ipynb"> Adding Milky Way Datasets to WWT</a>
+
 </ul>
