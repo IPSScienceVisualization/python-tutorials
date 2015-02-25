@@ -14,8 +14,11 @@ Here is an easy way to do that:
 First Install the (free) Anaconda Scientific Python Distribution https://store.continuum.io/cshop/anaconda/ (this includes python, iPython notebooks and most of mathematical/scientific packages needed) 
 Next we need to install some additional packages that are used in the tutorials, we will do that from the command line.
 Open a terminal and install the packages with the following commands:
+
 pip install astroquery
+
 pip install pyWWT
+
 conda install seaborn
 
 Great you are ready to go! To start the notebook type “ipython notebook” on the command line.
