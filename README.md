@@ -13,7 +13,7 @@ Planetarian Tutorial Series
 Other Tutorials
 <ol>
   <li>Visualizing simulation data:<a href="http://nbviewer.ipython.org/github/IPSScienceVisualization/python-tutorials/blob/master/SgrStream.ipynb">The Disruption of the Sagattarius Dwarf</a></li>
-<li>Visualizing VizieR catalogs:<a href="http://nbviewer.ipython.org/github/IPSScienceVisualization/python-tutorials/blob/master/MilkyWay%20Datasets%20for%20Visualization.ipynb"> Adding Milky Way Datasets to WWT</a></li>
+<li>Visualizing VizieR catalogs:<a href="http://nbviewer.ipython.org/github/IPSScienceVisualization/python-tutorials/blob/master/MilkyWay%20Datasets%20for%20Visualization.ipynb"> Adding Milky Way Datasets</a></li>
 </ol>
 
 IMERSA 2015 Data to Dome Workshop
